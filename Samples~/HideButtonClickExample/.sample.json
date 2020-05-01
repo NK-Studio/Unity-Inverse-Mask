@@ -1,0 +1,5 @@
+{
+	"displayName":"Hide Button Click Example",
+	"description": "버튼이 가려졌으나 Inverse 마스크를 통해 눌릴 수 있어보이는 상황이 되었을 때, 클릭에 대한 예제입니다.",
+	"createSeparatePackage": false
+}

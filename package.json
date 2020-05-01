@@ -1,0 +1,22 @@
+{
+  "name": "com.unity.ui.inversemask",
+  "displayName": "Unity InverseMask",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "\uc720\ub2c8\ud2f0\uc5d0\uc11c \uc81c\uacf5\ud558\ub294 UI Mask\ub294 \uad50\uc9d1\ud569\uc744 \uc9c0\uc6d0\ud558\uc9c0\ub9cc, \uc774 \uc5b4\uc14b\uc744 \uc0ac\uc6a9\ud558\uba74 Mask \ucef4\ud3ec\ub10c\ud2b8\uc5d0 \ub300\uce6d\ucc28\uc9d1\ud569 \ubc29\uc2dd\uc744 \uc9c0\uc6d0\ud569\ub2c8\ub2e4.",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Fade Example",
+      "description": "동물의 숲이나 슈퍼 마리오에서 자주 쓰이는 페이드 UI의 Example입니다.",
+      "path": "Samples~/FadeExample"
+    },
+    {
+      "displayName": "Hide Button Click Example",
+      "description": "버튼이 가려졌으나, Inverse 마스크를 통해 눌릴 수 있어보이는 상황이 되었을 때, 클릭에 대한 예제입니다.",
+      "path": "Samples~/HideButtonClickExample"
+    }
+  ]
+}

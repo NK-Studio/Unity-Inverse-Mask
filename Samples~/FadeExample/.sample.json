@@ -1,0 +1,5 @@
+{
+	"displayName":"Fade Example",
+	"description": "동물의 숲이나 슈퍼마리오에서 자주 쓰이는 페이드 UI의 Example입니다.",
+	"createSeparatePackage": false
+}
